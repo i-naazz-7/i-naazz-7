@@ -1,16 +1,60 @@
-## Hi there 👋
+# 🛠️ Tech Stack & Tools
 
-<!--
-**i-naazz-7/i-naazz-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Languages
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Java](https://shields.io)
+![Python](https://shields.io)
+![PHP](https://shields.io)
+![Dart](https://shields.io)
+![Lua](https://shields.io)
+![Markdown](https://shields.io)
 
-Here are some ideas to get you started:
+### 🚀 Frameworks & Libraries
+![Express.js](https://shields.io)
+![Laravel](https://shields.io)
+![Electron.js](https://shields.io)
+![Three.js](https://shields.io)
+![jQuery](https://shields.io)
+![Chart.js](https://shields.io)
+![Pandas](https://shields.io)
+![TensorFlow](https://shields.io)
+![Qt](https://shields.io)
+![JavaFX](https://shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Runtimes, Ecosystems & Templates
+![NodeJS](https://shields.io)
+![NPM](https://shields.io)
+![Nodemon](https://shields.io)
+![EJS](https://shields.io)
+![JWT](https://shields.io)
+
+### 🗄️ Databases & Servers
+![MySQL](https://shields.io)
+![MongoDB](https://shields.io)
+![SQLite](https://shields.io)
+![Apache](https://shields.io)
+
+### ☁️ Cloud, Hosting & DevOps
+![AWS](https://shields.io)
+![Cloudflare](https://shields.io)
+![Firebase](https://shields.io)
+![Vercel](https://shields.io)
+![Netlify](https://shields.io)
+![Heroku](https://shields.io)
+![Render](https://shields.io)
+
+### 🛠️ Tools, Platforms & CMS
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Postman](https://shields.io)
+![FFmpeg](https://shields.io)
+![Twilio](https://shields.io)
+![Joomla](https://shields.io)
+![Tor](https://shields.io)
+
+### 🎨 Design
+![Figma](https://shields.io)
+![Adobe Photoshop](https://shields.io)
+![Canva](https://shields.io)
